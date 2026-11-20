@@ -1,0 +1,11 @@
+^5232279 (t.nagajyothi@gmail.com 2026-11-20 10:56:48 +0530  1) Git Repository History Audit
+^5232279 (t.nagajyothi@gmail.com 2026-11-20 10:56:48 +0530  2) This repository demonstrates Git history tracking
+61d85a26 (t.nagajyothi@gmail.com 2026-11-20 11:06:40 +0530  3) Repository:Experiment7
+61d85a26 (t.nagajyothi@gmail.com 2026-11-20 11:06:40 +0530  4) Purpose:Audit repository history and accountability
+9dd433f2 (t.nagajyothi@gmail.com 2026-11-20 11:07:51 +0530  5) Commands:git log,git show,git blame
+964008b0 (t.nagajyothi@gmail.com 2026-11-20 11:08:55 +0530  6) Author tracking:Git records commit author and timestamp.
+97062b59 (t.nagajyothi@gmail.com 2026-11-20 11:18:31 +0530  7) Audit process:Inspect commits and trace file modifications
+97062b59 (t.nagajyothi@gmail.com 2026-11-20 11:18:31 +0530  8) Final report:Commit history and line attribution.
+bd07bda2 (t.nagajyothi@gmail.com 2026-11-20 11:38:18 +0530  9)  Version2:History inspection completed.
+bd07bda2 (t.nagajyothi@gmail.com 2026-11-20 11:38:18 +0530 10) Version 3:Author and date filtering verified.
+d1a7b894 (t.nagajyothi@gmail.com 2026-11-20 11:39:20 +0530 11) Version4:commit inspection completed.
