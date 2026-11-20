@@ -4,3 +4,5 @@ Repository:Experiment7
 Purpose:Audit repository history and accountability
 Commands:git log,git show,git blame
 Author tracking:Git records commit author and timestamp.
+Audit process:Inspect commits and trace file modifications
+Final report:Commit history and line attribution.
