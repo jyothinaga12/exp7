@@ -1,2 +1,4 @@
 Git Repository History Audit
 This repository demonstrates Git history tracking
+Repository:Experiment7
+Purpose:Audit repository history and accountability
